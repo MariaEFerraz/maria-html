@@ -1,13 +1,13 @@
-body {
-    background-color: khaki;
+body{
+    background-color: beige;
 }
 h1{
     text-align: center;
     font-size: 50px;
-    color:chocolate;
+    color: chocolate;
 }
 p{ 
     text-align: center;
     font-size: 20px;
-    color:saddlebrown;
+    color: saddlebrown;
 }
